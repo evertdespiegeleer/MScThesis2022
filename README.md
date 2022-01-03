@@ -3,8 +3,8 @@ This repository hosts the files relevant to my master's dissertation: "A system 
 
 All relevant files are available as a bundled zip-file.
 
-The bundle is roughly 200 mb in size, making it too large for direct hosted on GitHub.
-The repo, however, allows me to keep a public, managed list of working download links.
+The bundle is roughly 200 mb in size, making it too large for direct hosting on GitHub.
+This repo, however, allows me to keep a public, managed list of working download links.
 
 The bundle can be downloaded from the locations listed below.
 
